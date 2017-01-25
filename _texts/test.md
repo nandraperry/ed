@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: The Book of Common Prayer
+author: 
+publication-date: 1908
+original-publication-date: 1790
+source: Protestant Episcopal Church of the United States of America
+---
 AN CHTY God, Father a II τηoroios, γνω, Iι
 2S EVENING PRAYER
 hee and the Holy Ghost liveth and reigneth OVer, one God, world without end. Anel.
